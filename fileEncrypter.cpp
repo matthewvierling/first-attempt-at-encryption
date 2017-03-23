@@ -1,7 +1,7 @@
 /*
-fileEncryptor - Matthew Vierling - 06/23/2016
+fileEncrypter - Matthew Vierling - 06/23/2016
 
-this is a VERY simple txt document encryptor. This was written before I had knowledge of encryption libraries or how they worked.
+this is a VERY simple txt document encrypter. This was written before I had knowledge of encryption libraries or how they worked.
 
 THIS IS NOT A STRONG INCRYPTION. this is something I thought of and wanted to put it into code.
 
